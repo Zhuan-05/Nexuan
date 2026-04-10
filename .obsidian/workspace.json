@@ -11,10 +11,14 @@
             "id": "5d326637e7934697",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -180,8 +185,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c964c2f2a9ec769f",
+  "active": "5d326637e7934697",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/9.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/8.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/7.md",
@@ -208,7 +215,6 @@
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter/4th.md",
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter/3th.md",
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/AirJet input connection/MD82.md",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/AirJet input connection/MD79.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list",
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter",
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/AirJet input connection",
@@ -217,7 +223,6 @@
     "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet",
     "LI_Training/03_University_Assignments/Other/Report template",
     "LI_Training/03_University_Assignments/Other/Presentation PPT week 17",
-    "LI_Training/03_University_Assignments/Other/Other ++",
     "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-974872111795093487-IMG_20251218_095324.jpg.jpg",
     "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-970033455882278948-IMG_20251218_145150.jpg.jpg",
     "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-95522118123867039-IMG_20251212_100640.jpg.jpg",

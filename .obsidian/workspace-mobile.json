@@ -41,6 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily Life/顶级大佬的读书思路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "顶级大佬的读书思路"
+            }
+          },
+          {
+            "id": "cca510d734e830e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,25 +212,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "03fe1a471a7e8812",
+  "active": "cca510d734e830e2",
   "lastOpenFiles": [
+    "resources/Untitled/file-20260424143459686.jpg",
+    "Daily Life/顶级大佬的读书思路.md",
+    "Untitled.md",
+    "Daily Life/resources/顶级大佬的读书思路",
+    "resources/顶级大佬的读书思路",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459891.jpg",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459864.jpg",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459833.jpg",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459798.jpg",
     "resources/Untitled/Screenshot_2026-04-24-14-30-48-848_com.ss.android.ugc.aweme.jpg",
-    "resources/Untitled/Screenshot_2026-04-24-02-36-27-785_com.android.chrome.jpg",
-    "resources/Untitled/Screenshot_2026-04-24-14-20-28-543_com.ss.android.ugc.aweme.jpg",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459738.jpg",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459686.jpg",
     "resources/Untitled/comment_f978b72d745a0405726cb43d305e14c9 1.png",
-    "resources/Untitled/comment_f978b72d745a0405726cb43d305e14c9.png",
+    "Daily Life/resources/顶级大佬的读书思路/file-20260424143459624.png",
     "resources/Untitled",
     "resources",
     "Daily Life/Applied statistic.md",
-    "Untitled.md",
     "Daily Life/resources/Applied statistic/IMG_20260413_120127.jpg",
     "Daily Life/resources/Applied statistic",
     "Daily Life/KFC 同款芝士酱.md",
-    "Daily Life/resources/KFC 同款芝士酱/FB_IMG_1775991051460.jpg",
-    "Daily Life/resources/KFC 同款芝士酱/FB_IMG_1775991053760.jpg",
-    "Daily Life/resources/KFC 同款芝士酱/FB_IMG_1775991055756.jpg",
-    "Daily Life/resources/KFC 同款芝士酱/FB_IMG_1775991058070.jpg",
-    "Daily Life/resources/KFC 同款芝士酱/FB_IMG_1775991062330.jpg",
     "Daily Life/resources/KFC 同款芝士酱",
     "Daily Life/resources"
   ]

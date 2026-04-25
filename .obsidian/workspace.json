@@ -11,14 +11,10 @@
             "id": "5d326637e7934697",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名/未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -188,8 +184,29 @@
   },
   "active": "5d326637e7934697",
   "lastOpenFiles": [
-    "Untitled.md",
+    "顶级大佬的读书思路.md",
+    "resources/顶级大佬的读书思路/file-20260425141658161.png",
+    "resources/顶级大佬的读书思路/file-20260425141658112.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141658063.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141657997.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141657971.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141657938.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141657904.jpg",
+    "resources/顶级大佬的读书思路/file-20260425141657874.jpg",
+    "resources/顶级大佬的读书思路",
+    "resources/KFC 同款芝士酱/file-20260425141656357.jpg",
+    "resources/KFC 同款芝士酱/file-20260425141656333.jpg",
+    "resources/KFC 同款芝士酱",
+    "resources/Applied statistic",
+    "resources/AI时代财富与个人成长",
+    "resources/03_AI时代财富与个人成长",
+    "resources/02_顶级大佬的读书思路",
     "未命名/未命名.md",
+    "resources/01_KFC 同款芝士酱",
+    "Untitled.md",
+    "03_AI时代财富与个人成长.md",
+    "02_顶级大佬的读书思路.md",
+    "01_KFC 同款芝士酱.md",
     "未命名.md",
     "未命名",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/9.md",
@@ -211,28 +228,7 @@
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/12.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/11.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/10.md",
-    "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/1.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter/7th.md",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter/5th.md",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter/4th.md",
-    "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Floor Airjet filter",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/AirJet input connection",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet/Airblow Connect",
-    "LI_Training/03_University_Assignments/Other/Logbook/Total training internship",
-    "LI_Training/02_Assigned_Tasks/Other_Tasks/Find Airjet",
-    "LI_Training/03_University_Assignments/Other/Report template",
-    "LI_Training/03_University_Assignments/Other/Presentation PPT week 17",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-974872111795093487-IMG_20251218_095324.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-970033455882278948-IMG_20251218_145150.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-95522118123867039-IMG_20251212_100640.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-9034164595950612681-IMG_20251216_150403.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8855981067147854197-IMG_20251210_164731.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8757112302992572841-IMG_20251210_105037.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8778383119040118595-IMG_20251219_101139.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8687785637631149639-IMG_20251212_111222.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8385318618992303157-IMG_20251212_111224.jpg.jpg",
-    "LI_Training/03_University_Assignments/Images/Training_Photos/2025-12/nse-8364282503416816766-IMG_20251218_095331.jpg.jpg"
+    "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list"
   ]
 }

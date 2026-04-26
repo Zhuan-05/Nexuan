@@ -11,10 +11,14 @@
             "id": "5d326637e7934697",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "project life cycle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "project life cycle"
             }
           }
         ]
@@ -184,6 +188,8 @@
   },
   "active": "5d326637e7934697",
   "lastOpenFiles": [
+    "Untitled.md",
+    "project life cycle.md",
     "顶级大佬的读书思路.md",
     "resources/顶级大佬的读书思路/file-20260425141658161.png",
     "resources/顶级大佬的读书思路/file-20260425141658112.jpg",
@@ -203,11 +209,9 @@
     "resources/02_顶级大佬的读书思路",
     "未命名/未命名.md",
     "resources/01_KFC 同款芝士酱",
-    "Untitled.md",
     "03_AI时代财富与个人成长.md",
     "02_顶级大佬的读书思路.md",
     "01_KFC 同款芝士酱.md",
-    "未命名.md",
     "未命名",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/9.md",
     "LI_Training/03_University_Assignments/Other/Logbook/Total training internship/The check list/Untitled/8.md",

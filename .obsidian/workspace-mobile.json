@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fab257d949042809",
+        "id": "38b5edfe504c598f",
         "type": "tabs",
         "children": [
           {
-            "id": "d257f0c76ff916fd",
+            "id": "29bfee3f7899b2d7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md"
+                "file": "Excalidraw/白板2026-04-27 19.39.08.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "白板2026-04-27 19.33.12.excalidraw"
-            }
-          },
-          {
-            "id": "18afd173a187e2fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "白板2026-04-27 19.33.12.excalidraw"
+              "title": "白板2026-04-27 19.39.08.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md",
+            "file": "Excalidraw/白板2026-04-27 19.39.08.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,18 +169,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "18afd173a187e2fd",
+  "active": "29bfee3f7899b2d7",
   "lastOpenFiles": [
-    "Excalidraw/白板2026-04-27 19.34.50.excalidraw.md",
+    "未命名.md",
+    "Excalidraw/白板2026-04-27 19.39.08.excalidraw.md",
     "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md",
-    "Excalidraw",
     "03_AI时代财富与个人成长.md",
+    "Excalidraw/白板2026-04-27 19.34.50.excalidraw.md",
+    "Excalidraw",
     "01_KFC 同款芝士酱.md",
     "resources/Untitled/file-20260417153510295.pdf",
     "未命名.canvas",
     "2026-04-27.md",
     "project life cycle.md",
-    "未命名.md",
     "resources/Untitled/file-20260417153442025.pdf",
     "/resources/Untitled/file-20260417153510295.pdf",
     "/resources/Untitled/file-20260417153442025.pdf",

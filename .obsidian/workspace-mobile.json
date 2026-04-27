@@ -72,26 +72,9 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "e49aa443c3618465",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 398,
-                  "y": -125.70270270270271,
-                  "zoom": -0.11247472925841268
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +223,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e49aa443c3618465",
+  "active": "05a835edd63d2d3a",
   "lastOpenFiles": [
     "未命名.canvas",
     "2026-04-27.md",

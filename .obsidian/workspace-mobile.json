@@ -77,10 +77,17 @@
             "id": "e49aa443c3618465",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 164.8369350023916,
+                  "y": 223.9788818303715,
+                  "zoom": -0.7062956220180868
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],

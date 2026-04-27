@@ -214,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
@@ -228,6 +229,15 @@
   },
   "active": "9409f278d70a090c",
   "lastOpenFiles": [
+    "resources/Untitled/file-20260417153510295.pdf",
+    "resources/Untitled/file-20260417153442025.pdf",
+    "project life cycle.md",
+    "/resources/Untitled/file-20260417153510295.pdf",
+    "/resources/Untitled/file-20260417153442025.pdf",
+    "/project life cycle.md",
+    "/resources/Untitled",
+    "resources/Untitled",
+    "/resources",
     "resources/03_AI时代财富与个人成长",
     "02_顶级大佬的读书思路.md",
     "resources/02_顶级大佬的读书思路",
@@ -237,12 +247,7 @@
     "03_AI时代财富与个人成长.md",
     "Applied statistic.md",
     "Untitled.md",
-    "resources/顶级大佬的读书思路",
-    "resources/KFC 同款芝士酱",
-    "resources/Applied statistic",
-    "resources/AI时代财富与个人成长",
     "resources/03_AI时代财富与个人成长/file-20260425141858137.jpg",
-    "Daily Life/resources/顶级大佬的读书思路",
     "resources/02_顶级大佬的读书思路/file-20260425141852542.jpg",
     "resources/02_顶级大佬的读书思路/file-20260425141852496.jpg",
     "resources/02_顶级大佬的读书思路/file-20260425141852471.jpg",
@@ -251,8 +256,6 @@
     "resources/02_顶级大佬的读书思路/file-20260425141852396.jpg",
     "resources/02_顶级大佬的读书思路/file-20260425141852350.jpg",
     "resources/Untitled/comment_f978b72d745a0405726cb43d305e14c9 1.png",
-    "resources/02_顶级大佬的读书思路/file-20260425141852307.png",
-    "resources/Untitled",
-    "resources"
+    "resources/02_顶级大佬的读书思路/file-20260425141852307.png"
   ]
 }

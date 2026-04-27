@@ -23,10 +23,12 @@
             "id": "18afd173a187e2fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "白板2026-04-27 19.33.12.excalidraw"
             }
           }
         ],
@@ -121,6 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +184,7 @@
   },
   "active": "18afd173a187e2fd",
   "lastOpenFiles": [
+    "Excalidraw/白板2026-04-27 19.34.50.excalidraw.md",
     "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md",
     "Excalidraw",
     "03_AI时代财富与个人成长.md",

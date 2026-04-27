@@ -50,7 +50,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "always",
+  "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,

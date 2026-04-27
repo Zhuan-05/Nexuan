@@ -11,13 +11,26 @@
             "id": "d257f0c76ff916fd",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "白板2026-04-27 19.33.12.excalidraw"
+            }
+          },
+          {
+            "id": "18afd173a187e2fd",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "反向链接"
         }
       },
       {
@@ -167,8 +179,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d257f0c76ff916fd",
+  "active": "18afd173a187e2fd",
   "lastOpenFiles": [
+    "Excalidraw/白板2026-04-27 19.33.12.excalidraw.md",
+    "Excalidraw",
     "03_AI时代财富与个人成长.md",
     "01_KFC 同款芝士酱.md",
     "resources/Untitled/file-20260417153510295.pdf",
@@ -186,7 +200,6 @@
     "resources/03_AI时代财富与个人成长",
     "02_顶级大佬的读书思路.md",
     "resources/02_顶级大佬的读书思路",
-    "resources/01_KFC 同款芝士酱",
     "Applied statistic.md",
     "Untitled.md",
     "resources/03_AI时代财富与个人成长/file-20260425141858137.jpg",

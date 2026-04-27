@@ -72,9 +72,19 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "e49aa443c3618465",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +233,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9409f278d70a090c",
+  "active": "e49aa443c3618465",
   "lastOpenFiles": [
     "未命名.canvas",
     "2026-04-27.md",

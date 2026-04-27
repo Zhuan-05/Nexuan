@@ -67,38 +67,14 @@
             "id": "9409f278d70a090c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 26.543667166398585,
-                  "y": 40.151743657094954,
-                  "zoom": 0.24247467391373878
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "39e97e77a9b4d7ad",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 1.583984375,
-                  "y": -8.666351318359375,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,7 +223,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "39e97e77a9b4d7ad",
+  "active": "9409f278d70a090c",
   "lastOpenFiles": [
     "未命名.canvas",
     "2026-04-27.md",

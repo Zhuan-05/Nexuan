@@ -67,18 +67,38 @@
             "id": "9409f278d70a090c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03_AI时代财富与个人成长.md",
-                "mode": "preview",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 26.543667166398585,
+                  "y": 40.151743657094954,
+                  "zoom": 0.24247467391373878
+                }
               },
-              "icon": "lucide-file",
-              "title": "03_AI时代财富与个人成长"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "39e97e77a9b4d7ad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 1.583984375,
+                  "y": -8.666351318359375,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,11 +247,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9409f278d70a090c",
+  "active": "39e97e77a9b4d7ad",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2026-04-27.md",
+    "project life cycle.md",
+    "未命名.md",
+    "03_AI时代财富与个人成长.md",
     "resources/Untitled/file-20260417153510295.pdf",
     "resources/Untitled/file-20260417153442025.pdf",
-    "project life cycle.md",
     "/resources/Untitled/file-20260417153510295.pdf",
     "/resources/Untitled/file-20260417153442025.pdf",
     "/project life cycle.md",
@@ -243,8 +267,6 @@
     "resources/02_顶级大佬的读书思路",
     "01_KFC 同款芝士酱.md",
     "resources/01_KFC 同款芝士酱",
-    "resources/01KFC 同款芝士酱",
-    "03_AI时代财富与个人成长.md",
     "Applied statistic.md",
     "Untitled.md",
     "resources/03_AI时代财富与个人成长/file-20260425141858137.jpg",
